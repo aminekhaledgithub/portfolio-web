@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-web/static/css/main.c6e105ee.css",
+    "main.js": "/portfolio-web/static/js/main.de63f7e5.js",
+    "static/media/wall-and-laptop-background.jpg": "/portfolio-web/static/media/wall-and-laptop-background.f9e274f49e7f72950a2f.jpg",
+    "index.html": "/portfolio-web/index.html",
+    "main.c6e105ee.css.map": "/portfolio-web/static/css/main.c6e105ee.css.map",
+    "main.de63f7e5.js.map": "/portfolio-web/static/js/main.de63f7e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e105ee.css",
+    "static/js/main.de63f7e5.js"
+  ]
+}
